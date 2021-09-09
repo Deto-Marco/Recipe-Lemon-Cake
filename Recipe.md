@@ -13,7 +13,7 @@ I am partial to a slice of lemon drizzle and that's why I decided to include it 
 |**kcal**|**fat**|**saturates**|**carbs**|**sugars**|**fibre**|**protein**|**salt**|
 | :-----:|:-----:|:-----------:| :------:| :------: | :------:| :-------: | :-----:|
 | 236    |    6g |    3g       |     43g |     34g  |     1g  |     2g    |    0.2g|
-|        |       |             |         |          |         |           |        |
+
 &nbsp;
 
  ⌛ Prap: 25min
